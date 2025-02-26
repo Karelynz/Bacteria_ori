@@ -1,7 +1,7 @@
 This is cutadapt 2.6 with Python 3.7.16
 Command line parameters: -a CCTACGGGNGGCWGCAG -A GACTACHVGGGTATCTAATCC -o trimmed_reads/tm_S17_R1_trimmed.fastq.gz -p trimmed_reads/tm_S17_R2_trimmed.fastq.gz clean_reads/tm_S17_R1_clean.fastq.gz clean_reads/tm_S17_R2_clean.fastq.gz
 Processing reads on 1 core in paired-end mode ...
-Finished in 5.73 s (29 us/read; 2.07 M reads/minute).
+Finished in 8.14 s (41 us/read; 1.45 M reads/minute).
 
 === Summary ===
 

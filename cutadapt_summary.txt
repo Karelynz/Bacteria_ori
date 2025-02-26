@@ -1,4 +1,232 @@
 📊 Resumen de Cutadapt
+🔹 Resumen para 18_2_S18:
+Total basepairs processed:    80,325,110 bp
+Total written (filtered):        128,174 bp (0.2%)
+------------------------------------
+🔹 Resumen para 19_2_S19:
+Total basepairs processed:    89,499,537 bp
+Total written (filtered):        162,920 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-10_S10:
+Total basepairs processed:    18,790,713 bp
+Total written (filtered):         34,897 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-11_S11:
+Total basepairs processed:    19,151,103 bp
+Total written (filtered):         32,708 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-12_S12:
+Total basepairs processed:    16,970,020 bp
+Total written (filtered):         23,999 bp (0.1%)
+------------------------------------
+🔹 Resumen para Bact-13_S13:
+Total basepairs processed:    28,053,547 bp
+Total written (filtered):         46,608 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-14_S14:
+Total basepairs processed:    15,686,504 bp
+Total written (filtered):         28,061 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-15_S15:
+Total basepairs processed:    12,281,712 bp
+Total written (filtered):         24,021 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-17_S16:
+Total basepairs processed:     9,327,484 bp
+Total written (filtered):         17,983 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-18_S17:
+Total basepairs processed:    42,686,248 bp
+Total written (filtered):         70,515 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-19_S18:
+Total basepairs processed:        11,451 bp
+Total written (filtered):          1,857 bp (16.2%)
+------------------------------------
+🔹 Resumen para Bact-1_S1:
+Total basepairs processed:    19,870,756 bp
+Total written (filtered):         36,215 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-20_S19:
+Total basepairs processed:    20,739,140 bp
+Total written (filtered):         39,879 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-21_S20:
+Total basepairs processed:    11,928,824 bp
+Total written (filtered):         24,207 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-22_S21:
+Total basepairs processed:     8,925,232 bp
+Total written (filtered):         16,630 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-23_S22:
+Total basepairs processed:     8,882,174 bp
+Total written (filtered):         14,575 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-24_S23:
+Total basepairs processed:     9,829,858 bp
+Total written (filtered):         16,786 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-25_S24:
+Total basepairs processed:    18,304,994 bp
+Total written (filtered):         33,611 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-26_S25:
+Total basepairs processed:    17,019,955 bp
+Total written (filtered):         33,353 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-27_S26:
+Total basepairs processed:    14,146,848 bp
+Total written (filtered):         26,597 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-28_S27:
+Total basepairs processed:    12,320,829 bp
+Total written (filtered):         21,051 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-29_S28:
+Total basepairs processed:    13,459,566 bp
+Total written (filtered):         25,138 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-2_S2:
+Total basepairs processed:    24,496,318 bp
+Total written (filtered):         42,557 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-30_S29:
+Total basepairs processed:    19,983,289 bp
+Total written (filtered):         34,321 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-31_S30:
+Total basepairs processed:    24,406,063 bp
+Total written (filtered):         47,533 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-32_S31:
+Total basepairs processed:    10,213,210 bp
+Total written (filtered):         17,898 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-33_S32:
+Total basepairs processed:     9,285,034 bp
+Total written (filtered):         19,324 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-34_S33:
+Total basepairs processed:    18,768,488 bp
+Total written (filtered):         31,655 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-35_S34:
+Total basepairs processed:    15,775,876 bp
+Total written (filtered):         26,583 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-36_S35:
+Total basepairs processed:    13,149,714 bp
+Total written (filtered):         18,660 bp (0.1%)
+------------------------------------
+🔹 Resumen para Bact-37_S36:
+Total basepairs processed:     9,100,938 bp
+Total written (filtered):         19,537 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-38_S37:
+Total basepairs processed:    21,952,143 bp
+Total written (filtered):         41,774 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-39_S38:
+Total basepairs processed:    11,402,906 bp
+Total written (filtered):         23,322 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-3_S3:
+Total basepairs processed:    18,119,166 bp
+Total written (filtered):         35,134 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-40_S39:
+Total basepairs processed:    17,321,132 bp
+Total written (filtered):         30,724 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-41_S40:
+Total basepairs processed:     7,474,947 bp
+Total written (filtered):         18,947 bp (0.3%)
+------------------------------------
+🔹 Resumen para Bact-42_S41:
+Total basepairs processed:    23,148,903 bp
+Total written (filtered):         44,884 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-43_S42:
+Total basepairs processed:    11,435,351 bp
+Total written (filtered):         17,999 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-44_S43:
+Total basepairs processed:    13,467,620 bp
+Total written (filtered):         23,662 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-45_S44:
+Total basepairs processed:    15,453,246 bp
+Total written (filtered):         31,900 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-46_S45:
+Total basepairs processed:    26,588,303 bp
+Total written (filtered):         45,383 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-47_S46:
+Total basepairs processed:    27,369,667 bp
+Total written (filtered):         47,591 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-49_S47:
+Total basepairs processed:    25,182,668 bp
+Total written (filtered):         45,005 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-4_S4:
+Total basepairs processed:    13,019,906 bp
+Total written (filtered):         27,765 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-50_S48:
+Total basepairs processed:    14,756,335 bp
+Total written (filtered):         28,340 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-51_S49:
+Total basepairs processed:    19,516,194 bp
+Total written (filtered):         33,361 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-52_S50:
+Total basepairs processed:    15,363,538 bp
+Total written (filtered):         26,485 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-53_S51:
+Total basepairs processed:    15,262,578 bp
+Total written (filtered):         24,802 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-54_S52:
+Total basepairs processed:     6,176,211 bp
+Total written (filtered):         14,631 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-55_S53:
+Total basepairs processed:    19,711,917 bp
+Total written (filtered):         33,263 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-56_S54:
+Total basepairs processed:    23,853,230 bp
+Total written (filtered):         34,120 bp (0.1%)
+------------------------------------
+🔹 Resumen para Bact-5_S5:
+Total basepairs processed:    12,678,426 bp
+Total written (filtered):         30,867 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-6_S6:
+Total basepairs processed:    16,482,261 bp
+Total written (filtered):         33,507 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-7_S7:
+Total basepairs processed:    22,883,228 bp
+Total written (filtered):         46,359 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-8_S8:
+Total basepairs processed:    19,982,706 bp
+Total written (filtered):         37,145 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-9_S9:
+Total basepairs processed:    18,877,962 bp
+Total written (filtered):         31,524 bp (0.2%)
+------------------------------------
+🔹 Resumen para Bact-mock_S87:
+Total basepairs processed:     7,697,678 bp
+Total written (filtered):      7,694,835 bp (100.0%)
+------------------------------------
 🔹 Resumen para tm_S17:
 Total basepairs processed:    95,185,080 bp
 Total written (filtered):        137,893 bp (0.1%)

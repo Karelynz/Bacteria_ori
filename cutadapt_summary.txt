@@ -1,0 +1,5 @@
+📊 Resumen de Cutadapt
+🔹 Resumen para tm_S17:
+Total basepairs processed:    95,185,080 bp
+Total written (filtered):        137,893 bp (0.1%)
+------------------------------------
